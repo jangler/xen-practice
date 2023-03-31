@@ -59,7 +59,7 @@ nextQuestion();
 
 next.addEventListener('click', (event) => {
     nextQuestion();
-    setTimeout(() => response.focus(), 100); // debounce enter key
+    setTimeout(() => response.focus(), 200); // debounce enter key
 });
 
 response.addEventListener('keyup', (event) => {
