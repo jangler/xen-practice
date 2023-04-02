@@ -1,4 +1,4 @@
-import { notes } from "./porcupine";
+import { notes } from "./22edo";
 import { modulo } from './util';
 
 const next = document.querySelector('#next') as HTMLButtonElement;

@@ -8,21 +8,12 @@ For JI ear training, see <http://www.billalves.com/JIET/jiet.php>.
 
 ## Roadmap
 
-- [ ] 22edo
-    - [x] Porcupine notation
-    - [ ] Ups and downs notation
-    - [ ] JI representation
+Ups and downs notation practice for:
+
+- [x] 22edo
 - [ ] 72edo (selected intervals)
-    - [ ] Ups and downs notation
-    - [ ] JI representation
 - [ ] 19edo
-    - [ ] Standard notation
-    - [ ] JI representation
 - [ ] 31edo
-    - [ ] Ups and downs notation
-    - [ ] JI representation
 - [ ] 41edo
-    - [ ] Ups and downs notation
-    - [ ] JI representation
 - [ ] 27edo?
 - [ ] 53edo?
