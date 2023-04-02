@@ -68,7 +68,7 @@ response.addEventListener('keyup', (event) => {
             `Correct.` :
             (correctAnswers.length === 1 ?
                 `Incorrect. Answer was ${correctAnswers[0]}.` :
-                `Incorrect. Answers were ${correctAnswers.join(',')}`)
+                `Incorrect. Answers were ${correctAnswers.join(', ')}`)
         next.focus();
     }
 });
